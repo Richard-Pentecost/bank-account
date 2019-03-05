@@ -1,0 +1,22 @@
+{
+  "name": "bank-account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richard-Pentecost/bank-account.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richard-Pentecost/bank-account/issues"
+  },
+  "homepage": "https://github.com/Richard-Pentecost/bank-account#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
